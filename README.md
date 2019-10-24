@@ -8,13 +8,14 @@ Add fidelity, documentation, and tests to a fully functional REST API built with
 
 ## Links and Resources
 
-* [submission PR](https://github.com/401-advanced-javascript-kimball/l07-api-server/pull/2)
-* [travis](https://travis-ci.com/401-advanced-javascript-kimball/l07-api-server)
+* [submission PR](https://github.com/401-advanced-javascript-kimball/l08-api-server/pull/1)
+* [travis](https://travis-ci.com/401-advanced-javascript-kimball/l08-api-server)
+* [Heroku](https://jk-401-lab08.herokuapp.com/)
 
 ### Documentation
 
 * [swagger](x)
-* [jsdocs](https://401-advanced-javascript-kimball.github.io/l07-api-server/)
+* [jsdocs](https://401-advanced-javascript-kimball.github.io/l08-api-server/)
 
 #### UML (Modules)
 
